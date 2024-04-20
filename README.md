@@ -1,0 +1,2 @@
+# readme.md
+nsm discord
